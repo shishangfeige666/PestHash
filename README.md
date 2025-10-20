@@ -1,4 +1,4 @@
-# PestHash: Multi-Scale Hashing for Agricultural Pest Retrieval
+# The Code of "Enhanced Agricultural Pest Retrieval via Multi-Scale Hashing with Channel Attention and Regularization"
 
 [](https://doi.org/10.5281/zenodo.17396419)
 
@@ -20,13 +20,5 @@ This is the official implementation of the paper **"Multi-Scale Hashing with Cha
 - IP102
 - CIFAR10
 - Stanford Cars
-### Data Structure
-data/
-├── train/
-│ ├── class_1/
-│ │ ├── image1.jpg
-│ │ └── image2.jpg
-│ └── class_2/
-├── test/
-└── labels.
+
 
