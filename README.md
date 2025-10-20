@@ -1,9 +1,27 @@
-## Code of "Multi-Scale Hashing with Channel Attention and Regularization for via Integreted Hash Centers for Argicultural Pest Retrieval"
+# The Code of "Enhanced Agricultural Pest Retrieval via Multi-Scale Hashing with Channel Attention and Regularization"
 
-### Code
+[](https://doi.org/10.5281/zenodo.17396419)
 
-`main.py` is the running file
+This is the official implementation of the paper **"Multi-Scale Hashing with Channel Attention and Regularization via Integrated Hash Centers for Agricultural Pest Retrieval"**.
 
-`optimAccel.py` is the hash center-generated file
 
-The scripts mainly include the training file `train_CUB.py` and the parameter configuration file `utils.py`
+
+## 🛠️ Environment Setup
+
+### Prerequisites
+
+- Python 3.11
+- CUDA 12.1
+- PyTorch 2.4.1
+
+### Supported Datasets
+
+- APTV99
+- IP102
+- CIFAR10
+- Stanford Cars
+  
+**Note**: This code is directly related to the manuscript submitted to *The Visual Computer* journal. If you use this work, please consider citing our relevant manuscript.
+
+
+
