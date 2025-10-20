@@ -18,4 +18,15 @@ This is the official implementation of the paper **"Multi-Scale Hashing with Cha
 
 - APTV99
 - IP102
-- Custom agricultural pest datasets
+- CIFAR10
+- Stanford Cars
+### Data Structure
+data/
+├── train/
+│ ├── class_1/
+│ │ ├── image1.jpg
+│ │ └── image2.jpg
+│ └── class_2/
+├── test/
+└── labels.
+
