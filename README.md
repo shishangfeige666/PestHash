@@ -20,5 +20,8 @@ This is the official implementation of the paper **"Multi-Scale Hashing with Cha
 - IP102
 - CIFAR10
 - Stanford Cars
+  
+**Note**: This code is directly related to the manuscript submitted to *The Visual Computer* journal. If you use this work, please consider citing our relevant manuscript.
+
 
 
